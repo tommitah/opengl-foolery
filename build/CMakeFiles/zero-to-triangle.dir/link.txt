@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/zero-to-triangle.dir/glad.c.o" "CMakeFiles/zero-to-triangle.dir/main.cpp.o" -o zero-to-triangle  -lGL -ldl -lglfw 

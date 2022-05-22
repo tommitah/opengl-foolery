@@ -1,0 +1,3 @@
+/home/tommitah/development/opengl/zero-to-triangle/build/CMakeFiles/zero-to-triangle.dir
+/home/tommitah/development/opengl/zero-to-triangle/build/CMakeFiles/edit_cache.dir
+/home/tommitah/development/opengl/zero-to-triangle/build/CMakeFiles/rebuild_cache.dir
